@@ -1,2 +1,1 @@
-# hexlet-java
-I am learning Java
+My first project at Hexlet
